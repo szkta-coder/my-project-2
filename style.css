@@ -1,11 +1,11 @@
 body {
-    background-color: rgb(253, 209, 195);
+    background-color: rgb(255, 221, 208);
     font-family: sans-serif;
 }
 
 #kartya {
     width: 400px;
-    background-color: #a76262;
+    background-color: #b67474;
     margin: auto;
     border: 1px solid #473232;
     border-radius: 10px;
@@ -15,10 +15,10 @@ body {
 }
 
 #udvok {
-    background-color: #996060;
+    background-color: #835353;
     padding: 10px;
     color: white;
-    border: 1px solid #fac4c4;
+    border: none;
     border-radius: 5px;
     cursor: pointer;
 }
