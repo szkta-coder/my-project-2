@@ -1,20 +1,29 @@
 body {
-    background-color: rgb(255, 196, 209);
+    background-color: rgb(247, 177, 175);
     font-family: sans-serif;
 }
 
 #kartya {
     width: 400px;
+    background-color: #a76262;
     margin: auto;
-    border: 2px solid #312626;
+    border: 1px solid #473232;
     border-radius: 10px;
-    box-shadow: 15px 30px 36px black;
+    box-shadow: 5px 10px 15px rgb(100, 62, 62);
     text-align: center;
+    padding-bottom: 15px;
 }
 
 #udvok {
-    background-color: #6d4040;
+    background-color: #996060;
+    padding: 10px;
     color: white;
-    border: none;
+    border: 1px solid #fac4c4;
     border-radius: 5px;
+    cursor: pointer;
+}
+
+#container {
+    text-align: center;
+    padding-top: 30px;
 }
