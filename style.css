@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(255, 196, 209);
+    font-family: sans-serif;
+}
+
+#kartya {
+    width: 400px;
+    margin: auto;
+    border: 2px solid #312626;
+    border-radius: 10px;
+    box-shadow: 15px 30px 36px black;
+    text-align: center;
+}
