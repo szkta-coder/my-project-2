@@ -11,3 +11,10 @@ body {
     box-shadow: 15px 30px 36px black;
     text-align: center;
 }
+
+#udvok {
+    background-color: #6d4040;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
